@@ -11,8 +11,8 @@ public class HolaMundo {
 	System.out.println("Ingrese su nombre");
 	String name = scan.next();
 
-	//Cuarta parte del commit "Imprima su nombre"
-	Syste.out.println("Bienvenido al curso " + name);
-} 
+	//Cuarta parte del commit "Imprima su nombre" 
+	System.out.println("Bienvenido al curso " + name);
+}
 
 
